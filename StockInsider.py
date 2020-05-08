@@ -1,3 +1,5 @@
+pip install StockInsider
+
 from insider import StockInsider
 
 si = StockInsider('sz000651')
